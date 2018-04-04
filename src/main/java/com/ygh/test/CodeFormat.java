@@ -37,4 +37,5 @@ public class CodeFormat {
 //		System.out.println(resourceBundle.toString());
 		System.out.println(getValue("1003"));
 	}
+	// 本座修改了这里的东西
 }
